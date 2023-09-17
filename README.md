@@ -1,5 +1,5 @@
-    
-# Smart Cart 
+     
+# Smart Cart  
 💻 Ebay ( clone ) : an ecommerce Website 🚀🎯
 
 ![LOGO SMART CART](https://user-images.githubusercontent.com/110609653/229433784-c119f184-e956-486c-b246-0f7c7bc83aa2.jpg)
