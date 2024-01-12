@@ -117,8 +117,7 @@ export default function Footer() {
           >
             <Image src={SmartCartLOGO} w="10" alt="Logo" />
             <Text>
-              © SmartCart : Made by - Shivam Pasvan | Tejas Pedge | Sonu
-              Prajapati
+              © SmartCart : Made by - Ekene | 2024
             </Text>
             <Stack direction={"row"} spacing={6}>
               <SocialButton label={"Twitter"} href={"#"}>
